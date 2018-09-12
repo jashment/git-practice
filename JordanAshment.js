@@ -1,4 +1,4 @@
 const me = {
     name: 'jordan',
-    bench: 245
+    bench: 330
 }
